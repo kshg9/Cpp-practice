@@ -1,9 +1,11 @@
+-- Note to self (credits: GFG)
+[Full-projects-list](https://www.geeksforgeeks.org/top-50-cpp-project-ideas-for-beginners-advanced/)
+
 ## Beginners Level
 
     CGPA Calculator
     Rock Paper Scissor
     Casino Number Guessing Game
-    Calculator for Scientific Operations
     Login and Registration System
     Student Database Management System
     Inventory System
@@ -16,7 +18,6 @@
     Hotel Management System
     Library Management System
     Traffic Management System
-    Hangman Game
     Text-Based Adventure Game
     Trading Application
     Search Engine
@@ -24,35 +25,18 @@
 ## Intermediate Level
 
     Snake Game
-    Text Editor
     Tic-Tac-Toe
     Minesweeper Game
-    Phonebook Application
     Using Wake-on-LAN protocol to remote power On a PC
-    Single-colored Blank Image using OpenCV
-    OpenCV Project for Image Blur
-    OpenCV to Play a Video
-    OpenCV to Blur a Video
-    OpenCV Project for Shape Detection
-    OpenCV Project for Face Detection
-    OpenCV Project for Coin Detection
     Music Player
-    Cryptography Application
+    Cryptography Application (?)
 
 ## Expert Level
 
-    Password Manager
     Ball Game using OpenGL
-    Helicopter Game
     Web Browser
     Finding Nearby Cabs
-    Online Exam System
-    Online Voting System
-    Online Ticket Reservation System
-    Online Job Portal
-    Online Food Ordering System
-    Online Shopping System
-    Blackjack with AI
+    Online Exam System (Networking?)
     Chess Game with AI
     Bike Race Game
     3D Bounce Ball Game
